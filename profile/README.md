@@ -1,6 +1,6 @@
 ![alt XOOPS CMS](http://xoops.org/images/logoXoops4GithubRepository.png)
 
-## What is XOOPS?
+## What is [XOOPS](https://xoops.org)?
 XOOPS is one of world's leading Open Source CMS (Content Management System), written in PHP for the MySQL database. Its object orientation makes it an ideal tool for developing small or large community websites, corporate portals, weblogs and much more.
 
 ## What XOOPS stands for?
