@@ -1,5 +1,5 @@
 ![alt XOOPS CMS](https://xoops.org/images/logoXoops4GithubRepository.png)
-# XOOPS Contributor Code of Conduct
+# [XOOPS](https://xoops.org) Contributor Code of Conduct
 
 ## Our Pledge
 
