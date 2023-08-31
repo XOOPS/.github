@@ -1,7 +1,7 @@
 ![alt XOOPS CMS](https://xoops.org/images/logoXoops4GithubRepository.png)
-# XOOPS Security Policy
+# [XOOPS](https://xoops.org) Security Policy
 
-**[XOOPS](http://xoops.org)** takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations.
+**[XOOPS](https://xoops.org)** takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations.
 This documentation provides guidelines and standard procedures regarding maintaining security with our software.
 
 ## Supported Versions
