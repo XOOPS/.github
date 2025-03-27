@@ -17,3 +17,31 @@ Though it began as a portal system, XOOPS is primarily used as a Content Managem
 - **Multi-byte Language Support** Fully supports multi-byte languages, including Japanese, Simplified and Traditional Chinese, Korean, etc.
 - **Versatile Group Permissions System** Powerful and user-friendly permissions system which enables administrators to set permissions by group.
 - **Theme-based skinnable interface** XOOPS is driven by a powerful theme system. Both admins and users can change the look of the entire web site with just a click of a mouse. There are also over 1000 themes available for download!
+
+## **XOOPS Ecosystem** 
+
+Welcome to the XOOPS Ecosystem! In addition to XOOPS CORE repositories here, we have repositories with Modules, Themes, Tutorials, Translations, and Archives:
+
+- **[Modules 25x](https://github.com/XoopsModules25x)**: Modules compatible with [XOOPS 2.5.x series](https://github.com/XOOPS/XoopsCore25).
+- **[Languages](https://github.com/XoopsLanguages)**: Language files and translations for XOOPS. 
+- **[Documentation](https://github.com/XoopsDocs)**: Tutorials for XOOPS Core and Modules.
+- **[Themes](https://github.com/XoopsThemes)**: Themes for XOOPS.
+- **[Modules 26x](https://github.com/XoopsModules26x)**: Modules for [XOOPS 2.6.0](https://github.com/XOOPS/XoopsCore25) (outdated)
+
+### Old Modules (feel free to update them for current XOOPS version)
+- **[Module Archive](https://github.com/XoopsModulesArchive)**: Old modules for previous vorsions of XOOPS.
+- **[Modules XMF](https://github.com/XoopsModulesXMF)**: Outdated modules using  [XMF (XOOPS Module Framework)](https://github.com/XOOPS/xmf).
+- **[Modules D3](https://github.com/XoopsModulesD3)**: Modules using the D3 Architecture from Japan.
+- **[Modules Wishcraft](https://github.com/XoopsModulesWishcraft)**: Modules developed by Wishcraft- 
+
+### Old Themes
+- **[Themes 2 Columns](https://github.com/XoopsThemes25xArchive-2col)**: 2-Column Layout for XOOPS 2.5.x.
+- **[Themes 3 Columns](https://github.com/XoopsThemes25xArchive-3col)**: 3-Column Layout for XOOPS 2.5.x.
+- **[Theme Archive](https://github.com/XoopsThemesArchive")**: Much older themes.
+
+
+### Other
+- **[Core Archive](https://github.com/XoopsCoreArchive)**: Archived versions of the XOOPS Core.
+- **[Old XOOPS Libraries](https://github.com/OldXoopsLibraries)**: Some older libraries extracted from XOOPS
+
+Visit and explore them, and if you find something interesting, feel free to update them for the current version of XOOPS!
